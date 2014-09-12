@@ -1,0 +1,17 @@
+{
+  "name": "sst-onlinebackup",
+  "version": "0.1.0",
+  "author": "stepping stone GmbH",
+  "summary": "The onlinebackup module manages stepping stone's online-backup client.",
+  "license": "AGPL 3.0",
+  "source": "https://github.com/stepping-stone/puppet-onlinebackup",
+  "project_page": "https://github.com/stepping-stone/puppet-onlinebackup",
+  "issues_url": "https://github.com/stepping-stone/puppet-onlinebackup/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+

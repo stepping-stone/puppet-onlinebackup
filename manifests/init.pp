@@ -29,13 +29,15 @@
 #
 # === Authors
 #
-# Author Name <author@domain.com>
+# Christian Affolter <christian.affolter@stepping-stone.ch>
 #
 # === Copyright
 #
-# Copyright 2014 Your name here, unless otherwise noted.
+# Copyright 2014 stepping stone GmbH, unless otherwise noted.
 #
 class onlinebackup {
 
+
+} inherit onlinebackup::params {
 
 }
